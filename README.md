@@ -1,4 +1,4 @@
-# Coders Build, Inc. Coding Culture
+# Coding Culture
 
 ## Overview
 
@@ -23,4 +23,3 @@ This is a collection of documents that outline Coders Build's Coding Culture and
  * [Submitting a Ticket](docs/submitting-ticket.md)
  * [Technical Planning Meetings](docs/technical-planning-meeting.md)
  * [Expedited Procedure](docs/expedited-procedure.md)
-
